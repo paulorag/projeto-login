@@ -28,10 +28,20 @@
     }
 
     section#login>div#imagem {
+        float: right;
         width: 50%;
     }
 
     section#login>div#form {
+        float: left;
         width: 50%
+    }
+
+    div#form>h1 {
+        font-size: 2em;
+    }
+
+    div#form>p {
+        font-size: 1.2em;
     }
 }
